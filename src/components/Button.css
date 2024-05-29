@@ -1,0 +1,21 @@
+.btn {
+    background-color: #ddd;
+    border: 1px solid #f44336;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 60px;
+    height: 50px;
+}
+
+.btn:hover {
+    background-color: #ccc;
+}
+
+.btn-clear {
+    width: 17rem;
+    background-color: #ff5252;
+}
