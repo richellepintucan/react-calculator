@@ -1,6 +1,6 @@
 # React Calculator
 
-> This project involves the essentials of a simple calculator in React.
+> This project involves the essentials of a simple calculator in React. Basic Calculations.
 
 ## Screenshot
 
